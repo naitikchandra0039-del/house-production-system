@@ -1,25 +1,20 @@
-
-# House Production System
+# House Price Prediction
 
 ## Introduction
-House Production System is a project developed to manage and monitor household production activities. The system helps organize production data and improve efficiency.
+House Price Prediction is a machine learning project that predicts house prices based on different features such as area, number of rooms, and location. This project uses Python and data analysis libraries.
 
 ## Features
-- Production data management
-- Data monitoring
+- Predict house prices using machine learning
 - Data analysis
-- Organized database storage
+- Model training and prediction
 
 ## Technologies Used
 - Python
 - NumPy
 - Pandas
-- Database
+- Machine Learning
 
 ## Developed By
 Naitik Chandra  
-B.Tech AI & ML (2nd Year)  
+B.Tech AI & ML  
 Invertis University, Bareilly
-
-## Project Purpose
-This project is developed as an academic project to demonstrate data management and data analysis using Python technologies.
